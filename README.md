@@ -3,8 +3,8 @@
 Projeto em modo gráfico MailSender.
 
 <p align="center">
-<img src="https://github.com/renatachagasc/Chat/blob/master/screenshots/1.PNG"/>
+<img src="https://github.com/renatachagasc/Swing-MailSender/blob/master/src/mail_send/img/img1.PNG"/>
 </p>
 <br>
-<img src="https://github.com/renatachagasc/Chat/blob/master/screenshots/2.PNG"/>
+<img src="https://github.com/renatachagasc/Swing-MailSender/blob/master/src/mail_send/img/img2.PNG"/>
 </p>
